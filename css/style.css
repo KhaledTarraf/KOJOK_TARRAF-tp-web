@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("../pictures/star_wars2.jpg");
+    background-image: url("../pictures/star_wars3.jpg");
     background-size: 1950px 930px;
     background-repeat: no-repeat;
 }
@@ -20,7 +20,7 @@ img
 div p
 {
     font-size: 65px;
-    color: red;
+    color: black;
     position: absolute;
     bottom: 0;
     right: 5%;

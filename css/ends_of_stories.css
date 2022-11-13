@@ -1,0 +1,71 @@
+.anakin_obiwan_end
+{
+    background-image: url("../pictures/vader_anakin_end.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.anakin_palpatine_end
+{
+    background-image: url("../pictures/anakin_yoda.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.yoda_kill_end
+{
+    background-image: url("../pictures/yoda_yoda_end.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.yoda_citation_end
+{
+    background-image: url("../pictures/yoda_citation_end.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.kylo_go_with
+{
+    background-image: url("../pictures/ben_solo.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.kylo_kill_han
+{
+    background-image: url("../pictures/kylo_kill.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.maul_fuite
+{
+    background-image: url("../pictures/maul_leave.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.maul_fight
+{
+    background-image: url("../pictures/maul_fight.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+}
+
+p
+{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}

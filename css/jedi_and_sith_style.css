@@ -1,6 +1,15 @@
-body
+.jedibody
 {
-    background-color: black;
+    background-image: url("../pictures/jedi_bg.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.sithbody
+{
+    background-image: url("../pictures/sith_bg2.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
 }
 
 h1

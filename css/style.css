@@ -1,6 +1,8 @@
 body
 {
-    background-color: black;
+    background-image: url("../pictures/star_wars2.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
 }
 
 a
@@ -11,14 +13,14 @@ a
 
 img
 {
-    width: 1100px;
-    height: 600px;
+    width: 300px;
+    height: 200px;
 }
 
 div p
 {
     font-size: 65px;
-    color: white;
+    color: red;
     position: absolute;
     bottom: 0;
     right: 5%;

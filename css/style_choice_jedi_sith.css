@@ -1,0 +1,36 @@
+body
+{
+    background-image: url("../pictures/red_blue_backg.jpg");
+}
+
+img
+{
+    width: 400px;
+    height: 400px;
+}
+
+figcaption
+{
+    font-size: 35px;
+    text-align: center;
+}
+
+.logo
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1
+{
+    font-size: 65px;
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}

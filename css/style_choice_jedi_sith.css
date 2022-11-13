@@ -1,6 +1,8 @@
 body
 {
     background-image: url("../pictures/red_blue_backg.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
 }
 
 img

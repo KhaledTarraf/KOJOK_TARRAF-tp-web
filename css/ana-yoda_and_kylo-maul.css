@@ -1,0 +1,62 @@
+.anakinbody
+{
+    background-image: url("../pictures/anakin_bg.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.yodabody
+{
+    background-image: url("../pictures/yoda_bg.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.kylobody
+{
+    background-image: url("../pictures/kylo_bg.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+.maulbody
+{
+    background-image: url("../pictures/maul_bg.jpg");
+    background-size: 1950px 930px;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+}
+
+p
+{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.sabre
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+img
+{
+    width: 600px;
+    height: 400px;
+}
+
+figcaption
+{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
